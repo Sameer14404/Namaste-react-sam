@@ -1,0 +1,27 @@
+.image {
+  width: 200px;
+}
+
+.header-container {
+  justify-content: space-between;
+  display: flex;
+}
+
+.nav-items {
+  display: flex;
+}
+
+.nav-items ul {
+  font-size: 20px;
+}
+
+.res-card img, .res-container {
+  width: 200px;
+}
+
+.res-container:hover {
+  cursor: pointer;
+  border: 3px solid #000;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
